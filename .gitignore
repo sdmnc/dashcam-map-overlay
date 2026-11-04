@@ -1,0 +1,11 @@
+# Never commit footage or GPS tracks: they reveal where you drive and live.
+*.mp4
+*.MP4
+*.mov
+*.gpx
+*.fit
+gps-*.json
+cities500.*
+work/
+.venv/
+__pycache__/
